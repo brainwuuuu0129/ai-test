@@ -1,0 +1,2 @@
+# 仅 Excel 导出需要
+openpyxl>=3.0.0
